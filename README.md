@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Malak Abdalla</h1>
 <h3 align="center">A passionate frontend developer from the United Kingdom India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh2NnIyYmwxaHB6ZjM0cTBxa3F5bjk5OTl3M2F2NzlydTgwYzlrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
@@ -20,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malakabdalla&show_icons=true&locale=en" alt="malakabdalla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malakabdalla&" alt="malakabdalla" /></p>
-![image](https://github.com/malakabdalla/malakabdalla/assets/142964413/ddfb926c-839a-4f99-b895-9c03569e6196)
+
