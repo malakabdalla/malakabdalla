@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh2NnIyYmwxaHB6ZjM0cTBxa3F5bjk5OTl3M2F2NzlydTgwYzlrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakabdalla&label=Profile%20views&color=0e75b6&style=flat" alt="malakabdalla" /> </p>
 
-- 🌱 I’m currently learning **at La fossa academy**
+- 🌱 I’m currently looking for a business data analyst role 
 
 - 📫 How to reach me **malak.abdalla1998@gmail.com**
 
